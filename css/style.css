@@ -1,3 +1,25 @@
 body {
     text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+canvas {
+    z-index: 0;
+}
+
+.modal {
+    border-radius: 6px;
+    border: 1px solid #000;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    padding-top: 50px;
+    z-index: 1000;
+    position: absolute;
+    background-color: #FFF;
+    top: 170px;
+    font-size: 18pt;
+    font-family: monospace;
+    visibility: hidden;
 }
