@@ -6,6 +6,7 @@
 In order to run the application:
  1. Navigate to the application's folder
  2. Double-click index.html to open in your favorite browser
+ 3. Begin navigating the character (arrow keys: up, down, right, left)
 
 
 ## Game Objective
